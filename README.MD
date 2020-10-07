@@ -1,5 +1,6 @@
 ##Sudoku Validator Command Line Tool (Tool)
 
+
 **Sudoku Validator Command Line Tool environment requirements**:
 
 - Java 8+;
