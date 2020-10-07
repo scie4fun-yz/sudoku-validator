@@ -30,7 +30,7 @@ Let's suppose your file name is "puzzleName.txt", so you need to run next comman
 ```
 validate.bat <full-path to "puzzleName.txt">
 ```
-You can validate several files with one command just adding their full-path obe by one with space as a separator:
+You can validate several files with one command just adding their full-path one by one with space as a separator:
 
 ```
 validate.bat <full-path to "puzzleName.txt"> <full-path to "puzzleName1"> <full-path to "puzzleName2.csv">
