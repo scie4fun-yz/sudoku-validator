@@ -1,4 +1,5 @@
 ##Sudoku Validator Command Line Tool (Tool)
+
 **Sudoku Validator Command Line Tool environment requirements**:
 
 - Java 8+;
@@ -6,7 +7,7 @@
 
 **Using**:
 
-- download ZIP-file from GitHub repository and extract it into a directory you want on a local machine;
+- download ZIP-file from [GitHub repository](https://github.com/scie4fun-yz/sudoku-validator) and extract it into a directory you want on a local machine;
 - open terminal/command line and navigate it to directory you've selected at the previous step;
 - use gradle to build a project and be able to run the Tool;
 - run Tool validate.bat file, using next command.
